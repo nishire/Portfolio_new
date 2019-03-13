@@ -6,34 +6,32 @@ class About extends Component {
 		return (
 			<div class="mt-5" style={{ marginTop: '20px' }}  className="col sm-12 md-12 xs-12 lg-8">
 				<br/>
-				<h2 className="text-center mt-3">About My Certifications</h2>
+				<h2 className="text-center mt-3">About My Online Courses</h2>
 				<hr className="bg-light"/>
 
 				<Breadcrumb>
 					<BreadcrumbItem active>
-						<h4 className="text-center">Jio Internship</h4>
+						<h4 className="text-center">The Full Stack Web Development Bootcamp.</h4>
 						<hr/>
-						<p>I did my internship on web and java in Jio with OSS team, I learned and also worked on their project (Jio Atlas)
-						also I did a project on JDBC.</p>
-						<button className="btn btn-info"onClick={()=> window.location='https://google.com'  }>View LOR</button>
+						<p>The course had brief introduction and hands-on to HTML, CSS and Javascript. Working with Nodejs, Expressjs and jquery.</p>
+						
 					</BreadcrumbItem>
 				</Breadcrumb>
 				
 				<Breadcrumb>
 				<BreadcrumbItem active className="col sm-12 md-12 xs-12 lg-8">
-						<h4 className="text-center">Mangal Essaki Innovations Pvt Ltd.</h4>
+						<h4 className="text-center">Tableau for Data Science and Advanced MS-Excel.</h4>
 						<hr/>
-						<p>I worked at Mangal Essaki and built a hybrid mobile application using React-Native, I had experience using React-Native at one hackathon.</p>
-						<button className="btn btn-info">View certificate</button>
+						<p>Data Visualization is an art of presenting the data in a manner that even a non-analyst can understand it. Tableau is one of the fastest evolving Business Intelligence (BI) and data visualization tool. I worked with different functionalities provided by Tableau and things like Macros, Pivot Tables in excel. </p>
+
 					</BreadcrumbItem>
 				</Breadcrumb>
 				
 				<Breadcrumb>
 				<BreadcrumbItem active className="col sm-12 md-12 xs-12 lg-8">
-						<h4 className="text-center">Training at IT Kart</h4>
+						<h4 className="text-center">MYSQL for Data Science and Business Intelligence</h4>
 						<hr/>
-						<p>I did training under IT Kart which is associated to EC Council for Ethical Hacking for 2 months and got certified</p>
-						<button className="btn btn-info">View certificate</button>
+						<p>Basic knowledge of a database and how it works. Also, how queries are written in SQL.</p>
 					</BreadcrumbItem>
 				</Breadcrumb>
 

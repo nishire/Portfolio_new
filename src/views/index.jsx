@@ -19,7 +19,7 @@ export default class Index extends Component {
 						<h6>
 							Hi, I am Nishant, a B.Tech student at K.J Somaiya, Vidyavihar. I'am pursuing EXTC Engineering, although I am in EXTC, I prefer programming as my first choice. I am looking forward to work in the profile of Data Analytics and Web development. I'm a quick learner and get adapted to the situation am in easily. I like photography and cooking.
 						</h6>
-						<button className="btn btn-danger mt-2">View resume</button>
+						<button className="btn btn-danger mt-2" onClick={()=> window.location="https://drive.google.com/file/d/1Nd3E74MMROjkJUi1JChh2UreW9tSfQ-Q/view?usp=drivesdk"}>View resume</button>
 					</div>
 				</div>
 				<hr className="bg-light"/>

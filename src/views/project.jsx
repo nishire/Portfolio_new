@@ -20,16 +20,16 @@ class Project extends Component {
 				<br/>
 				<Card>
 					<CardBody>
-						<CardTitle style={{ textAlign: 'center' }}>Star-rating</CardTitle>
-						<CardText>I built a basic star rating mechanism using js.</CardText>
+						<CardTitle style={{ textAlign: 'center' }}>Facial Recognition based Attendance System.</CardTitle>
+						<CardText>Using face recognition algorithm the students present in the class are recognized and the attendance is updated accordingly.Picam is used for clicking the pictures which is connected to the rasberrypi. The raspi module uploads the photos on google drive which can be accesssed by our server(laptop) and the results are updated on google spreadsheet..</CardText>
 						<CardLink href="https://github.com/Karna97/star-rating"><Button>View Project</Button></CardLink>
 					</CardBody>
 				</Card>
 				<br/>
 				<Card>
 					<CardBody>
-						<CardTitle style={{ textAlign: 'center' }}>ContactForm-web-app</CardTitle>
-						<CardText>Its a basic contact form which renders infos in real time for this I used firebase and vanilla js.</CardText>
+						<CardTitle style={{ textAlign: 'center' }}>Mini Project using Reactjs and Nodejs</CardTitle>
+						<CardText>Made my online portfolio using reactjs. And a blogpostapp using nodejs, expressjs and MongoDB. </CardText>
 						<CardLink href="https://github.com/Karna97/contactform-web-app"><Button>View Project</Button></CardLink>
 					</CardBody>
 				</Card>

@@ -43,7 +43,7 @@ class Base extends Component {
 							</NavItem>
 							
 							<NavItem>
-								<NavLink href="https://github.com/karna97">GitHub</NavLink>
+								<NavLink href="https://github.com/nishire">GitHub</NavLink>
 							</NavItem>
 						</Nav>
 					</Collapse>
